@@ -10,6 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "rxjs": "^7.8.2"
+    "axios": "^1.9.0",
+    "date-fns": "^4.1.0",
+    "express": "^5.1.0",
+    "rxjs": "^7.8.2",
+    "ws": "^8.18.2"
   }
 }
